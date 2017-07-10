@@ -12,4 +12,31 @@ h1{
 p #home{
   font-size: 18px;
   color: white;
+  font-weight: bold;
+}
+
+p{
+  font-size: 14px;
+}
+
+h2{
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3{
+  font-size: 23px;
+  font-weight: bold;
+}
+
+#designed{
+  color: white;
+  background-image:url(../images/the-flatiron-building.png);
+}
+
+.footnote{
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
 }
